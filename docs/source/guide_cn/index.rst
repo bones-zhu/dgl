@@ -54,9 +54,6 @@
    * - :ref:`guide_cn-message-passing-part`
      - 陈知雨/Zhiyu Chen
      - https://www.zhiyuchen.com
-   * - :ref:`guide_cn-message-passing-edge`
-     - 陈知雨/Zhiyu Chen
-     - https://www.zhiyuchen.com
    * - :ref:`guide_cn-message-passing-heterograph`
      - 陈知雨/Zhiyu Chen
      - https://www.zhiyuchen.com
